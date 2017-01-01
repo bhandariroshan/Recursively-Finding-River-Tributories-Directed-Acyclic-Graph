@@ -16,4 +16,3 @@ d.  In line number 29 and 30 there is init_x = -14979.6783 and init_y = 3480833.
 e. Run the code using: python giscsv.py
 
 f. Your output will be in the file named "tributaries.csv" in the same folder where code lies.
-
